@@ -43,7 +43,7 @@ class CustomTabsHelper {
         connection?.let {
             try {
                 activity.unbindService(it)
-            } catch (e: IllegalArgumentException) {
+            } catch (e: Exception) {
             }
             client = null
             customTabsSession = null

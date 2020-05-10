@@ -10,6 +10,10 @@
       <module fileurl="file://$PROJECT_DIR$/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/buildSrc.iml" />
       <module fileurl="file://$PROJECT_DIR$/customtabs/customtabs.iml" filepath="$PROJECT_DIR$/customtabs/customtabs.iml" />
       <module fileurl="file://$PROJECT_DIR$/customtabs-example/customtabs-example.iml" filepath="$PROJECT_DIR$/customtabs-example/customtabs-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-android-customtabs.iml" filepath="$PROJECT_DIR$/java-android-customtabs.iml" group="android-customtabs" />
+      <module fileurl="file://$PROJECT_DIR$/buildSrc/java-android-customtabs-buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/java-android-customtabs-buildSrc.iml" group="android-customtabs/buildSrc" />
+      <module fileurl="file://$PROJECT_DIR$/customtabs/java-android-customtabs-customtabs.iml" filepath="$PROJECT_DIR$/customtabs/java-android-customtabs-customtabs.iml" group="android-customtabs/customtabs" />
+      <module fileurl="file://$PROJECT_DIR$/customtabs-example/java-android-customtabs-customtabs-example.iml" filepath="$PROJECT_DIR$/customtabs-example/java-android-customtabs-customtabs-example.iml" group="android-customtabs/customtabs-example" />
     </modules>
   </component>
 </project>
